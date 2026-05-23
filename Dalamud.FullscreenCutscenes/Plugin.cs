@@ -10,7 +10,7 @@ namespace Dalamud.FullscreenCutscenes
 {
     public sealed class Plugin : IDalamudPlugin
     {
-        public string Name => "Ultrawide Cutscenes";
+        public string Name => "Ultrawide Cutscenes Revamp";
 
         private const string commandName = "/pcutscenes";
 
