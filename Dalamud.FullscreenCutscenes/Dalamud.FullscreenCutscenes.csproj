@@ -8,5 +8,7 @@
     <Copyright></Copyright>
     <PackageProjectUrl>https://github.com/tangenx/Dalamud.FullscreenCutscenes</PackageProjectUrl>
     <RestorePackagesWithLockFile>true</RestorePackagesWithLockFile>
+    <AssemblyName>Dalamud.FullscreenCutscenesRevamp</AssemblyName>
+    <RootNamespace>Dalamud.FullscreenCutscenesRevamp</RootNamespace>
   </PropertyGroup>
 </Project>

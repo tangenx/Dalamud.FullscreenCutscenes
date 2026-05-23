@@ -2,7 +2,7 @@
 using Dalamud.Plugin;
 using System;
 
-namespace Dalamud.FullscreenCutscenes
+namespace Dalamud.FullscreenCutscenesRevamp
 {
     [Serializable]
     public class Configuration : IPluginConfiguration
